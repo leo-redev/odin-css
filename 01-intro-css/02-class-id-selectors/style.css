@@ -1,0 +1,18 @@
+.class {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#idTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.number3, #idFour {
+    font-size: 24px;
+}
+
+#idFour {
+    background-color: rgb(0, 255, 13);
+    font-weight: bold;
+}

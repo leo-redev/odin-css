@@ -53,7 +53,7 @@ Consejo rápido: en VS Code, puedes cambiar el formato en que se muestran los co
 
 ### Autoevaluación
 - ¿Los elementos `p` con números impares comparten una clase?
-- ¿Los elementos `div` con números
+- ¿Los elementos `div` con números?
 - ¿El elemento Número 3 tiene varias clases?
 
 </details>
